@@ -1,0 +1,4 @@
+Run Index.html
+You will see a map
+You can click any where on the map to create waypoints
+The location of the clicked points can be accessed and viewed in terms of latitude and longitude in the console window of your browser.
